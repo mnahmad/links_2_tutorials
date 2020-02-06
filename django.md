@@ -1,0 +1,66 @@
+
+# Django resources
+
+[link](#Python_resources )
+
+
+
+
+
+
+
+
+
+
+some text
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+some text
+
+
+
+
+
+
+
+
+
+# Python resources
