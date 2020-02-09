@@ -27,14 +27,10 @@ Topics
 
 Topics
 
-- Django  
-- REST API
-
-- GeoNode
-
-- Interesting apps
-
-[links](https://github.com/mnahmad/links_2_tutorials/blob/master/python.md)
+- [Django](https://github.com/mnahmad/links_2_tutorials/blob/master/python.md#Django)  
+- [REST API](ttps://github.com/mnahmad/links_2_tutorials/blob/master/python.md#Django)
+- [GeoNode](ttps://github.com/mnahmad/links_2_tutorials/blob/master/python.md#GeoNode)
+- [Interesting apps](ttps://github.com/mnahmad/links_2_tutorials/blob/master/python.md#Interesting-apps)
 
 
 ### QGIS
