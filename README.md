@@ -1,25 +1,19 @@
-# links to some Interesting tutorials
+# Links to some Interesting tutorials
 This repo. contains links to some Interesting tutorials and answers to Stackoverflow questions.
 
 ### Android
 Topics
-- [Geographic coordinate conversion](#Geographic-coordinate-conversion)
-- ODMDroid
-- Multi Language support
-- Adobe DX
-- Interesting apps
+- [Geographic coordinate conversion](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#Geographic-coordinate-conversion)
+- [ODMDroid](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#ODMDroid)
+- [Multi Language support](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#Language-support)
+- [Adobe DX](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#Adobe-DX)
+- [Interesting apps](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#Interesting-apps)
 
 
 ### Containers and Virtual machines
 
-##### Docker
-1. [Shiny docker image](https://dev.to/bettyes/my-first-shiny-docker-image-1jp7)
-2. [Compass app](https://www.youtube.com/watch?v=RcqXFxqIAW4)
-3. [Shiny rocker image Docker file (github) ](https://github.com/rocker-org/shiny)
-4. [How to Create a Docker Image From a Container | Scalyr](https://www.scalyr.com/blog/create-docker-image/)
-5. [Export docker image]( https://stackoverflow.com/questions/24482822/how-to-share-my-docker-image-without-using-the-docker-hub)
-
-##### KVM
+- [Docker](https://github.com/mnahmad/links_2_tutorials/blob/master/vms.md#Docker)
+- KVM
 
 
 ### Datasets
