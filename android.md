@@ -14,12 +14,18 @@
 
 3. [Load JASON to android app](ttps://www.youtube.com/watch?v=NEIxG9frpi0&fbclid=IwAR1Hxorkc7PmqRWhDmAITDu2KPxkNAjV5mAEZ3odWRkTnOV3d7zmE7diiKc)
 
+4. [How to use Shape file/ geoJson file in Android Studio](https://www.youtube.com/watch?v=NEIxG9frpi0&fbclid=IwAR1Hxorkc7PmqRWhDmAITDu2KPxkNAjV5mAEZ3odWRkTnOV3d7zmE7diiKc)
+
 ##### Language support
 1. [Multi Language support](https://developer.android.com/guide/topics/resources/localization)
 2. [Multiple Language Support in Android - Best Practices](https://androidwave.com/android-multi-language-support-best-practices/)
+
+3. [Support different languages and cultures  |  Android Developer](https://developer.android.com/training/basics/supporting-devices/languages)
+
 
 ##### Adobe DX
 1. [Import DX designed to android](https://www.youtube.com/watch?v=rpRUWz9bBj0)
 
 
 ##### Interesting apps
+1. [Compass App](https://www.youtube.com/watch?v=RcqXFxqIAW4)
