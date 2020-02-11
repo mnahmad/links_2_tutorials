@@ -18,6 +18,7 @@ __REST API__
 
 3. [REST API based authentication](https://simpleisbetterthancomplex.com/tutorial/2018/11/22/how-to-implement-token-authentication-using-django-rest-framework.html)
 
+4. [](https://medium.com/@ozguryarikkas/a-guide-to-creating-an-api-endpoint-with-django-rest-framework-and-django-filters-with-postgresql-563a12b3accb)
 __ORM__
 
 1. [ORM Cookbook](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/introduction.html?fbclid=IwAR3zMbeUkzv11ldp5CwWuIiGZfz_xvgscLk1Ha4fAXi1xZS1hNfI9XasROA)
