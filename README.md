@@ -19,7 +19,7 @@ Topics
 ### Datasets
 
 
-### GIS and Remote Sensing
+### GIS and Remote Sensing^^^
 
 #### OSM
 
@@ -35,6 +35,10 @@ Topics
 
 
 ### QGIS
+
+Topics
+- [Scripts](https://github.com/mnahmad/links_2_tutorials/blob/master/python.md#Scripts)
+- [Plugins](https://github.com/mnahmad/links_2_tutorials/blob/master/python.md#Plugins)
 
 
 ### R, Studio and packages
