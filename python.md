@@ -2,6 +2,12 @@
 
 ### Python
 
+
+#### Pandas
+
+
+[21-pandas-operations-for-absolute-beginners](https://towardsdatascience.com/21-pandas-operations-for-absolute-beginners-5653e54f4cda)
+
 #### Django
 
 

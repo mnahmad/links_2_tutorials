@@ -34,15 +34,17 @@ Topics
 - [Interesting apps](ttps://github.com/mnahmad/links_2_tutorials/blob/master/python.md#Interesting-apps)
 
 
-### QGIS
+### GIS and QGIS
 
 Topics
-- [Scripts](https://github.com/mnahmad/links_2_tutorials/blob/master/python.md#Scripts)
-- [Plugins](https://github.com/mnahmad/links_2_tutorials/blob/master/python.md#Plugins)
+- Models
+- [Scripts](https://github.com/mnahmad/links_2_tutorials/blob/master/qgis.md#Scripts)
+- [Plugins](https://github.com/mnahmad/links_2_tutorials/blob/master/qgis.md#Plugins)
 
 
 ### R, Studio and packages
 
+[maxlike package](https://cran.r-project.org/web/packages/maxlike/maxlike.pdf)
 
 ### Installation
 
@@ -51,6 +53,9 @@ Topics
 
 ##### Mac
 1. [Install Android Studio](https://developer.android.com/studio/install)
+
+
+2. [How to Uninstall QGIS from MacOS](https://gis.stackexchange.com/questions/268229/how-to-uninstall-qgis-from-macos)
 
 
 #####  Widows
