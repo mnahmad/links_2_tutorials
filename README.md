@@ -1,6 +1,8 @@
 # Links to some Interesting tutorials
 This repo. contains links to some Interesting tutorials and answers to Stackoverflow questions.
 
+
+
 ### Android
 Topics
 - [Geographic coordinate conversion](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#Geographic-coordinate-conversion)
@@ -16,8 +18,9 @@ Topics
 - KVM
 
 
-### Datasets
+### Dataset
 
+[Copernicus data service](https://cds.climate.copernicus.eu/cdsapp#!/search?type=dataset)
 
 ### GIS and Remote Sensing^^^
 
@@ -66,9 +69,13 @@ Topics
 
 
 
-### Linux
+### Linux and Shell scripting
 
 [link](https://github.com/mnahmad/links_2_tutorials/blob/master/django.md)
 
 
-### Good to read
+
+
+### Good to read and practice
+
+1. [The missing semester](https://missing.csail.mit.edu/2020/)

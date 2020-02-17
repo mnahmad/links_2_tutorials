@@ -1,7 +1,7 @@
 
 
 ### Python
-
+[5 Python tricks that will improve your life](https://www.youtube.com/watch?v=5tcs2qXP3Pg)
 
 #### Pandas
 
@@ -20,11 +20,17 @@ __Interesting apps__
 __REST API__
 
 1. [Build REST API with Django 3](https://medium.com/analytics-vidhya/build-a-django-restful-api-b7f4633d01bc)
+
+2. [Excellent tutorial on how to build Django REST API](https://www.youtube.com/watch?v=TmsD8QExZ84)
+
 2. [Build REST API with Django 2](my code of repo)
+
 
 3. [REST API based authentication](https://simpleisbetterthancomplex.com/tutorial/2018/11/22/how-to-implement-token-authentication-using-django-rest-framework.html)
 
 4. [](https://medium.com/@ozguryarikkas/a-guide-to-creating-an-api-endpoint-with-django-rest-framework-and-django-filters-with-postgresql-563a12b3accb)
+
+
 __ORM__
 
 1. [ORM Cookbook](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/introduction.html?fbclid=IwAR3zMbeUkzv11ldp5CwWuIiGZfz_xvgscLk1Ha4fAXi1xZS1hNfI9XasROA)
@@ -32,6 +38,8 @@ __ORM__
 #### GeoNode
 
 
+#### Package and Library generator
 
+[nbdev by fast.ai](http://nbdev.fast.ai/) allows developers to develop libs using jupyter notebooks.
 
 #### Interesting apps
