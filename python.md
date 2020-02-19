@@ -1,7 +1,13 @@
 
 
 ### Python
-[5 Python tricks that will improve your life](https://www.youtube.com/watch?v=5tcs2qXP3Pg)
+1. [5 Python tricks that will improve your life](https://www.youtube.com/watch?v=5tcs2qXP3Pg)
+
+
+#### Environments and IDEs
+
+1. [Installing T Littlest JupyterHub (tljh)](http://tljh.jupyter.org/en/latest/howto/admin/https.html#howto-admin-https-manual)
+
 
 #### Pandas
 
@@ -30,10 +36,18 @@ __REST API__
 
 4. [](https://medium.com/@ozguryarikkas/a-guide-to-creating-an-api-endpoint-with-django-rest-framework-and-django-filters-with-postgresql-563a12b3accb)
 
+[User authentication](https://www.easywaylearn.com/blog/django-rest-framework-user-authentication-tutorial/?fbclid=IwAR2MNnfVwIer2aEXr1MnMivrZiJHvcBhFK4phyQkbc60zB6pHSa-lqZMM5o)
 
 __ORM__
 
 1. [ORM Cookbook](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/introduction.html?fbclid=IwAR3zMbeUkzv11ldp5CwWuIiGZfz_xvgscLk1Ha4fAXi1xZS1hNfI9XasROA)
+
+
+
+
+__Dashboards__
+
+1. [Building an Analytics Dashboard with Django](https://morioh.com/p/88d6fc714f52?fbclid=IwAR3aoj2pS0SBpvBkO7iZe3_jHmV9IeYYZj1FQ5jI2umxIUrrTvxeaLS2C-4)
 
 #### GeoNode
 

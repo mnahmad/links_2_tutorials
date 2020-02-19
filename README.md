@@ -22,6 +22,8 @@ Topics
 
 [Copernicus data service](https://cds.climate.copernicus.eu/cdsapp#!/search?type=dataset)
 
+[NPP and GPP MODIS](https://modis.gsfc.nasa.gov/data/dataprod/mod17.php)
+
 ### GIS and Remote Sensing^^^
 
 #### OSM
@@ -48,6 +50,12 @@ Topics
 ### R, Studio and packages
 
 [maxlike package](https://cran.r-project.org/web/packages/maxlike/maxlike.pdf)
+
+
+[FIELDimageR](https://github.com/filipematias23/FIELDimageR?fbclid=IwAR2FQK_x2PiMiGTbkgyagfRQRDHcqyag8r59fJr5iJ72HUQz1KUgJ2-guKk)
+
+
+[Pixelwise coorelation of timeseries data](https://www.hakimabdi.com/blog/test-pixelwise-correlation-between-two-time-series-of-gridded-satellite-data-in-r). The data used is (a) rainfall (b) NPP.
 
 ### Installation
 
@@ -79,3 +87,11 @@ Topics
 ### Good to read and practice
 
 1. [The missing semester](https://missing.csail.mit.edu/2020/)
+
+2. [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html?fbclid=IwAR1N3yPDddvrdxzS70M9iWDtOpWJP9d3FZP4Hd8r5e1vqCN1ASyCR7B3Wco#sec2)
+
+3. [Estimating and understanding crop yields with explainable deep learning in the Indian Wheat Belt](https://iopscience.iop.org/article/10.1088/1748-9326/ab68ac)
+
+4. [SOLID principles](https://medium.com/analytics-vidhya/s-o-l-i-d-principles-7caf040fab96)
+
+[predicting food insecurity using RS](https://towardsdatascience.com/predicting-food-insecurity-in-zambia-using-satellite-imagery-272ffecbbce5)
