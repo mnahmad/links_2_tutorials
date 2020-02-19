@@ -1,3 +1,9 @@
+![Platform](https://img.shields.io/badge/Language-bash-green.svg?longCache=true)
+![Platform](https://img.shields.io/badge/Language-Python-yellow.svg?longCache=true)
+![Platform](https://img.shields.io/badge/Django-orange.svg?longCache=true)
+![Platform](https://img.shields.io/badge/MySQL-orange.svg?longCache=true)
+![Platform](https://img.shields.io/badge/R-blue.svg?longCache=true)
+
 # Links to some Interesting tutorials
 This repo. contains links to some Interesting tutorials and answers to Stackoverflow questions.
 
@@ -24,7 +30,7 @@ Topics
 
 [NPP and GPP MODIS](https://modis.gsfc.nasa.gov/data/dataprod/mod17.php)
 
-### GIS and Remote Sensing^^^
+### GIS and Remote Sensing
 
 #### OSM
 
