@@ -1,8 +1,9 @@
 ![Platform](https://img.shields.io/badge/Language-bash-green.svg?longCache=true)
 ![Platform](https://img.shields.io/badge/Language-Python-yellow.svg?longCache=true)
 ![Platform](https://img.shields.io/badge/Django-orange.svg?longCache=true)
-![Platform](https://img.shields.io/badge/MySQL-orange.svg?longCache=true)
-![Platform](https://img.shields.io/badge/R-blue.svg?longCache=true)
+![Platform](https://img.shields.io/badge/Database-MySQL-orange.svg?longCache=true)
+![Platform](https://img.shields.io/badge/Database-PostgreSQL-orange.svg?longCache=true)
+![Platform](https://img.shields.io/badge/Language-R-blue.svg?longCache=true)
 
 # Links to some Interesting tutorials
 This repo. contains links to some Interesting tutorials and answers to Stackoverflow questions.

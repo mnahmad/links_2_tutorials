@@ -1,6 +1,6 @@
 ![Platform](https://img.shields.io/badge/Language-Python-yellow.svg?longCache=true)
-![Platform](https://img.shields.io/badge/Django-orange.svg?longCache=true)
-![Platform](https://img.shields.io/badge/GeoNode-blue.svg?longCache=true)
+![Platform](https://img.shields.io/badge/framework-Django-orange.svg?longCache=true)
+![Platform](https://img.shields.io/badge/Product-GeoNode-blue.svg?longCache=true)
 
 ### Python
 1. [5 Python tricks that will improve your life](https://www.youtube.com/watch?v=5tcs2qXP3Pg)
