@@ -18,6 +18,9 @@
 
 #### Django
 
+[Safely Including Data for JavaScript in a Django Templates](https://adamj.eu/tech/2020/02/18/safely-including-data-for-javascript-in-a-django-template/?fbclid=IwAR3VVrPY9x1mAxVr0zt9Xd-NlbfQ61Tv2ian3Vh3RD1C8LgoYzwba6c-61g)
+
+
 
 __Interesting apps__
 1. Build A Cool To-Do List App With Django and Python!
@@ -33,6 +36,7 @@ __REST API__
 
 2. [Build REST API with Django 2](my code of repo)
 
+3. [Buildind a Simple API Using Django REST Framework in Python | Tutorial for Beginners](https://morioh.com/p/0e19c954ac19?f=5c21fb01c16e2556b555ab32&fbclid=IwAR0IhBUPboy4m0haMFGLTkiMPkb738nVwp0jQj3KM9lokdb5kPiF5-gRc8I)
 
 3. [REST API based authentication](https://simpleisbetterthancomplex.com/tutorial/2018/11/22/how-to-implement-token-authentication-using-django-rest-framework.html)
 

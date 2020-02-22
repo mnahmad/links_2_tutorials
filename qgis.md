@@ -1,4 +1,4 @@
-### GIS
+### GIS and  Remote Sensing
 1. [Weighted Overlay in GIS](https://www.youtube.com/watch?v=qyNkZ2FRLb8). Its is more like an MCE using AHP.
 
 1. [Nice read on NDVI](https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index#Rationale)
@@ -20,3 +20,8 @@
 
 #### Plugins
 1. [Google EathEngine] (https://gee-community.github.io/qgis-earthengine-plugin/)
+
+
+
+
+### OSM

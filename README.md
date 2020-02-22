@@ -31,14 +31,16 @@ Topics
 
 [NPP and GPP MODIS](https://modis.gsfc.nasa.gov/data/dataprod/mod17.php)
 
-### GIS and Remote Sensing
+[Copernicus global landcover maps on GEE](https://blog.vito.be/remotesensing/copernicus_globalland_gee)
 
-#### OSM
+
+
 
 ### Python
 
 Topics
 
+- [Python](https://github.com/mnahmad/links_2_tutorials/blob/master/python.md#Python)
 - [Django](https://github.com/mnahmad/links_2_tutorials/blob/master/python.md#Django)  
   - [REST API](ttps://github.com/mnahmad/links_2_tutorials/blob/master/python.md#Django)
   - [ORM](ttps://github.com/mnahmad/links_2_tutorials/blob/master/python.md#Django)
@@ -46,10 +48,11 @@ Topics
 - [Interesting apps](ttps://github.com/mnahmad/links_2_tutorials/blob/master/python.md#Interesting-apps)
 
 
-### GIS and QGIS
+### [GIS and Remote sensing](https://github.com/mnahmad/links_2_tutorials/blob/master/qgis.md)
 
 Topics
 - Models
+- [QGIS](https://github.com/mnahmad/links_2_tutorials/blob/master/qgis.md#Scripts)
 - [Scripts](https://github.com/mnahmad/links_2_tutorials/blob/master/qgis.md#Scripts)
 - [Plugins](https://github.com/mnahmad/links_2_tutorials/blob/master/qgis.md#Plugins)
 
@@ -81,6 +84,7 @@ Topics
 
 
 ### JavaScript
+
 
 
 
