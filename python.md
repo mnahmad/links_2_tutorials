@@ -55,8 +55,13 @@ __Dashboards__
 
 1. [Building an Analytics Dashboard with Django](https://morioh.com/p/88d6fc714f52?fbclid=IwAR3aoj2pS0SBpvBkO7iZe3_jHmV9IeYYZj1FQ5jI2umxIUrrTvxeaLS2C-4)
 
+
+
 #### GeoNode
 
+
+#### Remote Sensing
+[Python-Remote-Sensing-Scripts](https://github.com/JavierLopatin/Python-Remote-Sensing-Scripts?fbclid=IwAR0rlRhxwsLxFXnxzCgGWzLrDiV9Dcfm_O35TQogedv-vwfo76smEIebtGI)
 
 #### Package and Library generator
 
