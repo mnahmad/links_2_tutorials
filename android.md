@@ -26,6 +26,11 @@
 ##### Adobe DX
 1. [Import DX designed to android](https://www.youtube.com/watch?v=rpRUWz9bBj0)
 
+##### OpenDataKit
+
+- [Electronic Data Collection: A practical guide to using XLS forms, ODK and Enketo](https://open.lshtm.ac.uk/course/view.php?id=34)
+
+
 
 ##### Interesting apps
 1. [Compass App](https://www.youtube.com/watch?v=RcqXFxqIAW4)

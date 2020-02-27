@@ -6,16 +6,19 @@
 ![Platform](https://img.shields.io/badge/Language-R-blue.svg?longCache=true)
 
 # Links to some Interesting tutorials
-This repo. contains links to some Interesting tutorials and answers to Stackoverflow questions.
+This repo. contains links to some Interesting tutorials and answers to Stack Overflow questions.
+
+__All credit goes to content creators. Please like and share using original links.__
 
 
 
-### Android
+### Java, Android and Digital Data Collection
 Topics
 - [Geographic coordinate conversion](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#Geographic-coordinate-conversion)
 - [ODMDroid](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#ODMDroid)
 - [Multi Language support](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#Language-support)
 - [Adobe DX](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#Adobe-DX)
+- [OpenDataKit](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#OpenDataKit)
 - [Interesting apps](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#Interesting-apps)
 
 
@@ -67,6 +70,18 @@ Topics
 
 [Pixelwise coorelation of timeseries data](https://www.hakimabdi.com/blog/test-pixelwise-correlation-between-two-time-series-of-gridded-satellite-data-in-r). The data used is (a) rainfall (b) NPP.
 
+
+### JavaScript
+
+
+
+
+### [Linux and Shell scripting](https://github.com/mnahmad/links_2_tutorials/blob/master/linux.md)
+
+[link](https://github.com/mnahmad/links_2_tutorials/blob/master/linux.md)
+
+
+
 ### Installation
 
 ##### Linux
@@ -83,16 +98,6 @@ Topics
 1. [Install Android Studio](https://developer.android.com/studio/install)
 
 
-### JavaScript
-
-
-
-
-### Linux and Shell scripting
-
-[link](https://github.com/mnahmad/links_2_tutorials/blob/master/django.md)
-
-
 
 
 ### Good to read and practice
@@ -105,4 +110,4 @@ Topics
 
 4. [SOLID principles](https://medium.com/analytics-vidhya/s-o-l-i-d-principles-7caf040fab96)
 
-[predicting food insecurity using RS](https://towardsdatascience.com/predicting-food-insecurity-in-zambia-using-satellite-imagery-272ffecbbce5)
+5. [predicting food insecurity using RS](https://towardsdatascience.com/predicting-food-insecurity-in-zambia-using-satellite-imagery-272ffecbbce5)
