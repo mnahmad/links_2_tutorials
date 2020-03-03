@@ -3,7 +3,7 @@
 
 1. [Nice read on NDVI](https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index#Rationale)
 
-
+1. [Map Algebra: Zonal, focal, local and Global statistics](https://gisgeography.com/map-algebra-global-zonal-focal-local/)
 
 
 ### QGIS
@@ -12,7 +12,7 @@
 2. [Multiple Criteria Decision Making For Selection of Suitable Agricultural Land](https://www.youtube.com/watch?v=TDwg8Wi5rYs)
 
 3. [Watershed Analysis]()
-3. [Flood Analysis]https://www.youtube.com/watch?v=qZBi3vGBzI8&feature=youtu.be&fbclid=IwAR0OYRvQweUwi0mkbbCmDRX9rmdS4LCP45MyLkKXI3oWbW6geony8_rEZ-8
+4. [Flood Analysis]https://www.youtube.com/watch?v=qZBi3vGBzI8&feature=youtu.be&fbclid=IwAR0OYRvQweUwi0mkbbCmDRX9rmdS4LCP45MyLkKXI3oWbW6geony8_rEZ-8
 
 
 

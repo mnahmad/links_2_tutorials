@@ -30,13 +30,13 @@ Topics
 
 ### Dataset
 
-[Copernicus data service](https://cds.climate.copernicus.eu/cdsapp#!/search?type=dataset)
+- [Copernicus data service](https://cds.climate.copernicus.eu/cdsapp#!/search?type=dataset)
 
-[NPP and GPP MODIS](https://modis.gsfc.nasa.gov/data/dataprod/mod17.php)
+- [NPP and GPP MODIS](https://modis.gsfc.nasa.gov/data/dataprod/mod17.php)
 
-[Copernicus global landcover maps on GEE](https://blog.vito.be/remotesensing/copernicus_globalland_gee)
+- [Copernicus global landcover maps on GEE](https://blog.vito.be/remotesensing/copernicus_globalland_gee)
 
-
+- [Global synergy cropland map](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FZWSFAA&fbclid=IwAR3hpGdEFs8-R9GP9i8TJpbx0caySnOz5Ipgvlgkl-yatVRQlk7UIB5qHXs)
 
 
 ### Python
