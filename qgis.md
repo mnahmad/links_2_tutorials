@@ -1,4 +1,9 @@
 ### GIS and  Remote Sensing
+
+1. [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html)
+
+1. [Maps made easy](https://support.dronesmadeeasy.com/hc/en-us/categories/200507805-Maps-Made-Easy) contains nice tutorials for map making. 
+
 1. [Weighted Overlay in GIS](https://www.youtube.com/watch?v=qyNkZ2FRLb8). Its is more like an MCE using AHP.
 
 1. [Nice read on NDVI](https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index#Rationale)
@@ -19,7 +24,7 @@
 #### Scripts
 
 #### Plugins
-1. [Google EathEngine] (https://gee-community.github.io/qgis-earthengine-plugin/)
+1. [Google Earth Engine for QGIS] (https://gee-community.github.io/qgis-earthengine-plugin/)
 
 
 
