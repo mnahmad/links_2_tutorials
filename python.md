@@ -8,23 +8,21 @@
 
 #### Environments and IDEs
 
-1. [Installing T Littlest JupyterHub (tljh)](http://tljh.jupyter.org/en/latest/howto/admin/https.html#howto-admin-https-manual)
+1. [Installing the Littlest JupyterHub (tljh)](http://tljh.jupyter.org/en/latest/howto/admin/https.html#howto-admin-https-manual).
 
 
 #### Pandas
 
-
-[21-pandas-operations-for-absolute-beginners](https://towardsdatascience.com/21-pandas-operations-for-absolute-beginners-5653e54f4cda)
+1. [21-pandas-operations-for-absolute-beginners](https://towardsdatascience.com/21-pandas-operations-for-absolute-beginners-5653e54f4cda)
 
 #### Django
 
-[Safely Including Data for JavaScript in a Django Templates](https://adamj.eu/tech/2020/02/18/safely-including-data-for-javascript-in-a-django-template/?fbclid=IwAR3VVrPY9x1mAxVr0zt9Xd-NlbfQ61Tv2ian3Vh3RD1C8LgoYzwba6c-61g)
+1. [Safely Including Data for JavaScript in a Django Templates](https://adamj.eu/tech/2020/02/18/safely-including-data-for-javascript-in-a-django-template/?fbclid=IwAR3VVrPY9x1mAxVr0zt9Xd-NlbfQ61Tv2ian3Vh3RD1C8LgoYzwba6c-61g)
 
-[6 Best Django tutorials](https://sunscrapers.com/blog/6-best-django-tutorials-and-books-for-advanced-python-developers/?utm_source=facebook&utm_medium=group&utm_campaign=content&utm_content=django_python_web&fbclid=IwAR2q5q9a3S1Zb9Vxufjkvanup5a_7_iFCyXzQUcweDiWrdtz8XjN8Rr5dfo)
+2. [6 Best Django tutorials](https://sunscrapers.com/blog/6-best-django-tutorials-and-books-for-advanced-python-developers/?utm_source=facebook&utm_medium=group&utm_campaign=content&utm_content=django_python_web&fbclid=IwAR2q5q9a3S1Zb9Vxufjkvanup5a_7_iFCyXzQUcweDiWrdtz8XjN8Rr5dfo)
 
 __Interesting apps__
-1. Build A Cool To-Do List App With Django and Python!
-<a href='https://www.youtube.com/watch?v=fEqOW6FrokA'> <img src ='http://img.youtube.com/vi/fEqOW6FrokA/0.jpg'/></a>
+1. [Build A Cool To-Do List App With Django and Python](http://img.youtube.com/vi/fEqOW6FrokA/0.jpg)
 
 
 
@@ -61,10 +59,10 @@ __Dashboards__
 
 
 #### Remote Sensing
-[Python-Remote-Sensing-Scripts](https://github.com/JavierLopatin/Python-Remote-Sensing-Scripts?fbclid=IwAR0rlRhxwsLxFXnxzCgGWzLrDiV9Dcfm_O35TQogedv-vwfo76smEIebtGI)
+1. [Python-Remote-Sensing-Scripts](https://github.com/JavierLopatin/Python-Remote-Sensing-Scripts?fbclid=IwAR0rlRhxwsLxFXnxzCgGWzLrDiV9Dcfm_O35TQogedv-vwfo76smEIebtGI)
 
 #### Package and Library generator
 
-[nbdev by fast.ai](http://nbdev.fast.ai/) allows developers to develop libs using jupyter notebooks.
+1. [nbdev by fast.ai](http://nbdev.fast.ai/) allows developers to develop libs using jupyter notebooks.
 
 #### Interesting apps
