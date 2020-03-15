@@ -50,6 +50,10 @@ header-includes:
 __I am still working on it as now title is not appearing on the main page__
 
 
+### How to generate template file
+
+[https://www.sitepoint.com/creating-pdfs-from-markdown-with-pandoc-and-latex/](https://www.sitepoint.com/creating-pdfs-from-markdown-with-pandoc-and-latex/)
+
 ### Nice templates
 - [https://github.com/ryangrose/easy-pandoc-templates](https://github.com/ryangrose/easy-pandoc-templates)
 - [https://github.com/jgm/pandoc/wiki/Pandoc-Tricks](https://github.com/jgm/pandoc/wiki/Pandoc-Tricks)

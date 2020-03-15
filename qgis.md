@@ -1,8 +1,12 @@
+![Platform](https://img.shields.io/badge/Topic-GIS-orange.svg?longCache=true)
+![Platform](https://img.shields.io/badge/Software-QGIS-green.svg?longCache=true)
+![Platform](https://img.shields.io/badge/WebMapping-OSM-blue.svg?longCache=true)
+
 ### GIS and  Remote Sensing
 
 1. [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html)
 
-1. [Maps made easy](https://support.dronesmadeeasy.com/hc/en-us/categories/200507805-Maps-Made-Easy) contains nice tutorials for map making. 
+1. [Maps made easy](https://support.dronesmadeeasy.com/hc/en-us/categories/200507805-Maps-Made-Easy) contains nice tutorials for map making.
 
 1. [Weighted Overlay in GIS](https://www.youtube.com/watch?v=qyNkZ2FRLb8). Its is more like an MCE using AHP.
 
@@ -19,7 +23,7 @@
 3. [Watershed Analysis]()
 4. [Flood Analysis]https://www.youtube.com/watch?v=qZBi3vGBzI8&feature=youtu.be&fbclid=IwAR0OYRvQweUwi0mkbbCmDRX9rmdS4LCP45MyLkKXI3oWbW6geony8_rEZ-8
 
-
+5. [Remote sensing with Python in Jupyter | burdGIS](https://www.youtube.com/watch?v=OsgZSlv4t-U&feature=emb_logo). This is an excellent tutorials.
 
 #### Scripts
 

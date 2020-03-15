@@ -4,7 +4,7 @@
 
 ### Python
 1. [5 Python tricks that will improve your life](https://www.youtube.com/watch?v=5tcs2qXP3Pg)
-
+2. [Buildind a UI with pyQT](https://medium.com/@PanjiBrotoisworo/building-a-python-gui-with-pyqt-designer-987f8a400bdf)
 
 #### Environments and IDEs
 
@@ -20,7 +20,7 @@
 
 [Safely Including Data for JavaScript in a Django Templates](https://adamj.eu/tech/2020/02/18/safely-including-data-for-javascript-in-a-django-template/?fbclid=IwAR3VVrPY9x1mAxVr0zt9Xd-NlbfQ61Tv2ian3Vh3RD1C8LgoYzwba6c-61g)
 
-
+[6 Best Django tutorials](https://sunscrapers.com/blog/6-best-django-tutorials-and-books-for-advanced-python-developers/?utm_source=facebook&utm_medium=group&utm_campaign=content&utm_content=django_python_web&fbclid=IwAR2q5q9a3S1Zb9Vxufjkvanup5a_7_iFCyXzQUcweDiWrdtz8XjN8Rr5dfo)
 
 __Interesting apps__
 1. Build A Cool To-Do List App With Django and Python!
