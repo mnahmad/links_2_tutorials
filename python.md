@@ -21,7 +21,9 @@
 
 2. [6 Best Django tutorials](https://sunscrapers.com/blog/6-best-django-tutorials-and-books-for-advanced-python-developers/?utm_source=facebook&utm_medium=group&utm_campaign=content&utm_content=django_python_web&fbclid=IwAR2q5q9a3S1Zb9Vxufjkvanup5a_7_iFCyXzQUcweDiWrdtz8XjN8Rr5dfo)
 
-__Interesting apps__
+3. [QuerySet Filters on Many-to-many Relations](https://djangotricks.blogspot.com/2018/05/queryset-filters-on-many-to-many-relations.html)
+
+__Interesting Django apps__
 1. [Build A Cool To-Do List App With Django and Python](http://img.youtube.com/vi/fEqOW6FrokA/0.jpg)
 
 
@@ -32,15 +34,15 @@ __REST API__
 
 2. [Excellent tutorial on how to build Django REST API](https://www.youtube.com/watch?v=TmsD8QExZ84)
 
-2. [Build REST API with Django 2](my code of repo)
+3. [Build REST API with Django 2](my code of repo)
 
-3. [Buildind a Simple API Using Django REST Framework in Python | Tutorial for Beginners](https://morioh.com/p/0e19c954ac19?f=5c21fb01c16e2556b555ab32&fbclid=IwAR0IhBUPboy4m0haMFGLTkiMPkb738nVwp0jQj3KM9lokdb5kPiF5-gRc8I)
+4. [Buildind a Simple API Using Django REST Framework in Python | Tutorial for Beginners](https://morioh.com/p/0e19c954ac19?f=5c21fb01c16e2556b555ab32&fbclid=IwAR0IhBUPboy4m0haMFGLTkiMPkb738nVwp0jQj3KM9lokdb5kPiF5-gRc8I)
 
-3. [REST API based authentication](https://simpleisbetterthancomplex.com/tutorial/2018/11/22/how-to-implement-token-authentication-using-django-rest-framework.html)
+5. [REST API based authentication](https://simpleisbetterthancomplex.com/tutorial/2018/11/22/how-to-implement-token-authentication-using-django-rest-framework.html)
 
-4. [](https://medium.com/@ozguryarikkas/a-guide-to-creating-an-api-endpoint-with-django-rest-framework-and-django-filters-with-postgresql-563a12b3accb)
+6. [A Comprehensive Guide to creating an API Endpoint with Django Rest Framework and Advanced Django Filters with PostgreSQL](https://medium.com/@ozguryarikkas/a-guide-to-creating-an-api-endpoint-with-django-rest-framework-and-django-filters-with-postgresql-563a12b3accb)
 
-[User authentication](https://www.easywaylearn.com/blog/django-rest-framework-user-authentication-tutorial/?fbclid=IwAR2MNnfVwIer2aEXr1MnMivrZiJHvcBhFK4phyQkbc60zB6pHSa-lqZMM5o)
+7. [User authentication](https://www.easywaylearn.com/blog/django-rest-framework-user-authentication-tutorial/?fbclid=IwAR2MNnfVwIer2aEXr1MnMivrZiJHvcBhFK4phyQkbc60zB6pHSa-lqZMM5o)
 
 __ORM__
 
