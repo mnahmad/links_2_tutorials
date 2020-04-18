@@ -18,7 +18,7 @@
 #### Django
 
 - [47 Beautiful Color Schemes For Your Next Design Project](https://digitalsynopsis.com/design/color-schemes-palettes/)
-
+- [Django Cheat sheet](https://remotedevdaily.com/django-commands-cheat-sheet/)
 - [Safely Including Data for JavaScript in a Django Templates](https://adamj.eu/tech/2020/02/18/safely-including-data-for-javascript-in-a-django-template/?fbclid=IwAR3VVrPY9x1mAxVr0zt9Xd-NlbfQ61Tv2ian3Vh3RD1C8LgoYzwba6c-61g)
 
 - [6 Best Django tutorials](https://sunscrapers.com/blog/6-best-django-tutorials-and-books-for-advanced-python-developers/?utm_source=facebook&utm_medium=group&utm_campaign=content&utm_content=django_python_web&fbclid=IwAR2q5q9a3S1Zb9Vxufjkvanup5a_7_iFCyXzQUcweDiWrdtz8XjN8Rr5dfo)

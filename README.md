@@ -15,7 +15,7 @@ __All credit goes to content creators. Please like and share using original link
 ### Java, Android and Digital Data Collection
 Topics
 - [Geographic coordinate conversion](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#Geographic-coordinate-conversion)
-- [ODMDroid](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#ODMDroid)
+- [OSMDroid](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#ODMDroid)
 - [Multi Language support](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#Language-support)
 - [Adobe DX](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#Adobe-DX)
 - [OpenDataKit](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#OpenDataKit)
@@ -60,7 +60,7 @@ Topics
 - [Plugins](https://github.com/mnahmad/links_2_tutorials/blob/master/qgis.md#Plugins)
 
 
-### R, Studio and packages
+### R, RStudio and packages
 
 [maxlike package](https://cran.r-project.org/web/packages/maxlike/maxlike.pdf)
 
@@ -71,7 +71,7 @@ Topics
 [Pixelwise coorelation of timeseries data](https://www.hakimabdi.com/blog/test-pixelwise-correlation-between-two-time-series-of-gridded-satellite-data-in-r). The data used is (a) rainfall (b) NPP.
 
 
-### JavaScript
+### HTML and JavaScript
 
 
 

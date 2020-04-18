@@ -16,24 +16,26 @@
 
 
 ### QGIS
-- [QGIS Tutorials and Tips](https://www.qgistutorials.com/en/), Excellent tutorials 
+- [QGIS Tutorials and Tips](https://www.qgistutorials.com/en/), Excellent tutorials
 - [Nice QGIS tutorials videos](https://www.youtube.com/user/soloharthal)
-1. [SLYR: the ESRI to QGIS Compatibility Suite](https://north-road.com/slyr/)
-2. [Multiple Criteria Decision Making For Selection of Suitable Agricultural Land](https://www.youtube.com/watch?v=TDwg8Wi5rYs)
+- [SLYR: the ESRI to QGIS Compatibility Suite](https://north-road.com/slyr/)
+- [Multiple Criteria Decision Making For Selection of Suitable Agricultural Land](https://www.youtube.com/watch?v=TDwg8Wi5rYs)
 
-3. [Watershed Analysis]()
+- [Watershed Analysis]()
 
-4. [Flood Analysis](https://www.youtube.com/watch?v=qZBi3vGBzI8&feature=youtu.be&fbclid=IwAR0OYRvQweUwi0mkbbCmDRX9rmdS4LCP45MyLkKXI3oWbW6geony8_rEZ-8)
+- [Flood Analysis](https://www.youtube.com/watch?v=qZBi3vGBzI8&feature=youtu.be&fbclid=IwAR0OYRvQweUwi0mkbbCmDRX9rmdS4LCP45MyLkKXI3oWbW6geony8_rEZ-8)
 
 
-5. [Missing polygons](http://monde-geospatial.com/three-ways-of-creating-missing-polygons-from-holes-using-qgis/)
+- [Missing polygons](http://monde-geospatial.com/three-ways-of-creating-missing-polygons-from-holes-using-qgis/)
 
-6. [Topology checker](https://www.youtube.com/watch?v=HKDiOtoAMz0)
+- [Topology checker](https://www.youtube.com/watch?v=HKDiOtoAMz0)
 
 #### Scripts
 
 #### Plugins
-1. [Google Earth Engine for QGIS](https://gee-community.github.io/qgis-earthengine-plugin/)
+- [pyQGIS Developer Cookbook](https://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/)
+
+- [Google Earth Engine for QGIS](https://gee-community.github.io/qgis-earthengine-plugin/)
 
 
 
@@ -43,4 +45,6 @@
 
 ### Remote Sensing
 
-1. [Remote sensing with Python in Jupyter | burdGIS](https://www.youtube.com/watch?v=OsgZSlv4t-U&feature=emb_logo). This is an excellent tutorials.
+- [Remote sensing with Python in Jupyter | burdGIS](https://www.youtube.com/watch?v=OsgZSlv4t-U&feature=emb_logo). This is an excellent tutorials.
+
+- [Band Arithmetic functions, ESRI](https://pro.arcgis.com/en/pro-app/help/data/imagery/band-arithmetic-function.htm) 
