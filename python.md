@@ -8,7 +8,7 @@
 
 #### Environments and IDEs
 
-1. [Installing the Littlest JupyterHub (tljh)](http://tljh.jupyter.org/en/latest/howto/admin/https.html#howto-admin-https-manual).
+1. [Installing the Littlest JupyterHub (tljh)](http://tljh.jupyter.org/en/latest/howto/admin/https.html#howto-admin-https-manual). Note, this installation is for host machine and not for VMs/Docker Images.
 
 
 #### Pandas
@@ -17,15 +17,16 @@
 
 #### Django
 
-1. [Safely Including Data for JavaScript in a Django Templates](https://adamj.eu/tech/2020/02/18/safely-including-data-for-javascript-in-a-django-template/?fbclid=IwAR3VVrPY9x1mAxVr0zt9Xd-NlbfQ61Tv2ian3Vh3RD1C8LgoYzwba6c-61g)
+- [47 Beautiful Color Schemes For Your Next Design Project](https://digitalsynopsis.com/design/color-schemes-palettes/)
 
-2. [6 Best Django tutorials](https://sunscrapers.com/blog/6-best-django-tutorials-and-books-for-advanced-python-developers/?utm_source=facebook&utm_medium=group&utm_campaign=content&utm_content=django_python_web&fbclid=IwAR2q5q9a3S1Zb9Vxufjkvanup5a_7_iFCyXzQUcweDiWrdtz8XjN8Rr5dfo)
+- [Safely Including Data for JavaScript in a Django Templates](https://adamj.eu/tech/2020/02/18/safely-including-data-for-javascript-in-a-django-template/?fbclid=IwAR3VVrPY9x1mAxVr0zt9Xd-NlbfQ61Tv2ian3Vh3RD1C8LgoYzwba6c-61g)
 
-3. [QuerySet Filters on Many-to-many Relations](https://djangotricks.blogspot.com/2018/05/queryset-filters-on-many-to-many-relations.html)
+- [6 Best Django tutorials](https://sunscrapers.com/blog/6-best-django-tutorials-and-books-for-advanced-python-developers/?utm_source=facebook&utm_medium=group&utm_campaign=content&utm_content=django_python_web&fbclid=IwAR2q5q9a3S1Zb9Vxufjkvanup5a_7_iFCyXzQUcweDiWrdtz8XjN8Rr5dfo)
+
+- [QuerySet Filters on Many-to-many Relations](https://djangotricks.blogspot.com/2018/05/queryset-filters-on-many-to-many-relations.html)
 
 __Interesting Django apps__
 1. [Build A Cool To-Do List App With Django and Python](http://img.youtube.com/vi/fEqOW6FrokA/0.jpg)
-
 
 
 __REST API__
@@ -36,7 +37,7 @@ __REST API__
 
 3. [Build REST API with Django 2](my code of repo)
 
-4. [Buildind a Simple API Using Django REST Framework in Python | Tutorial for Beginners](https://morioh.com/p/0e19c954ac19?f=5c21fb01c16e2556b555ab32&fbclid=IwAR0IhBUPboy4m0haMFGLTkiMPkb738nVwp0jQj3KM9lokdb5kPiF5-gRc8I)
+4. [Building a Simple API Using Django REST Framework in Python | Tutorial for Beginners](https://morioh.com/p/0e19c954ac19?f=5c21fb01c16e2556b555ab32&fbclid=IwAR0IhBUPboy4m0haMFGLTkiMPkb738nVwp0jQj3KM9lokdb5kPiF5-gRc8I)
 
 5. [REST API based authentication](https://simpleisbetterthancomplex.com/tutorial/2018/11/22/how-to-implement-token-authentication-using-django-rest-framework.html)
 
@@ -63,8 +64,9 @@ __Dashboards__
 #### Remote Sensing
 1. [Python-Remote-Sensing-Scripts](https://github.com/JavierLopatin/Python-Remote-Sensing-Scripts?fbclid=IwAR0rlRhxwsLxFXnxzCgGWzLrDiV9Dcfm_O35TQogedv-vwfo76smEIebtGI)
 
-#### Package and Library generator
+#### Package
 
-1. [nbdev by fast.ai](http://nbdev.fast.ai/) allows developers to develop libs using jupyter notebooks.
+1. [Building a Python Package in Minutes](https://medium.com/analytics-vidhya/building-a-python-package-in-minutes-7bb702a6eb65)
+2. [nbdev by fast.ai](http://nbdev.fast.ai/) allows developers to develop libs using jupyter notebooks.
 
 #### Interesting apps

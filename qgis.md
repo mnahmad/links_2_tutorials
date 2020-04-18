@@ -16,7 +16,7 @@
 
 
 ### QGIS
-
+- [QGIS Tutorials and Tips](https://www.qgistutorials.com/en/), Excellent tutorials 
 - [Nice QGIS tutorials videos](https://www.youtube.com/user/soloharthal)
 1. [SLYR: the ESRI to QGIS Compatibility Suite](https://north-road.com/slyr/)
 2. [Multiple Criteria Decision Making For Selection of Suitable Agricultural Land](https://www.youtube.com/watch?v=TDwg8Wi5rYs)
