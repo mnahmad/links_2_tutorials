@@ -29,6 +29,8 @@
 - [Missing polygons](http://monde-geospatial.com/three-ways-of-creating-missing-polygons-from-holes-using-qgis/)
 
 - [Topology checker](https://www.youtube.com/watch?v=HKDiOtoAMz0)
+- [Smooth line using Qgis](https://www.youtube.com/watch?v=GLt3qTkr6l4)
+
 
 #### Scripts
 
@@ -47,4 +49,4 @@
 
 - [Remote sensing with Python in Jupyter | burdGIS](https://www.youtube.com/watch?v=OsgZSlv4t-U&feature=emb_logo). This is an excellent tutorials.
 
-- [Band Arithmetic functions, ESRI](https://pro.arcgis.com/en/pro-app/help/data/imagery/band-arithmetic-function.htm) 
+- [Band Arithmetic functions, ESRI](https://pro.arcgis.com/en/pro-app/help/data/imagery/band-arithmetic-function.htm)

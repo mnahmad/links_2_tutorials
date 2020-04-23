@@ -13,7 +13,7 @@
 
 #### Pandas
 
-1. [21-pandas-operations-for-absolute-beginners](https://towardsdatascience.com/21-pandas-operations-for-absolute-beginners-5653e54f4cda)
+- [21-pandas-operations-for-absolute-beginners](https://towardsdatascience.com/21-pandas-operations-for-absolute-beginners-5653e54f4cda)
 
 #### Django
 
@@ -24,6 +24,8 @@
 - [6 Best Django tutorials](https://sunscrapers.com/blog/6-best-django-tutorials-and-books-for-advanced-python-developers/?utm_source=facebook&utm_medium=group&utm_campaign=content&utm_content=django_python_web&fbclid=IwAR2q5q9a3S1Zb9Vxufjkvanup5a_7_iFCyXzQUcweDiWrdtz8XjN8Rr5dfo)
 
 - [QuerySet Filters on Many-to-many Relations](https://djangotricks.blogspot.com/2018/05/queryset-filters-on-many-to-many-relations.html)
+
+- [Django admin site and ModelAdmin](https://docs.djangoproject.com/en/3.0/ref/contrib/admin/)
 
 __Interesting Django apps__
 1. [Build A Cool To-Do List App With Django and Python](http://img.youtube.com/vi/fEqOW6FrokA/0.jpg)
