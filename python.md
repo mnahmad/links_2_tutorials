@@ -8,7 +8,7 @@
 
 #### Environments and IDEs
 
-1. [Installing the Littlest JupyterHub (tljh)](http://tljh.jupyter.org/en/latest/howto/admin/https.html#howto-admin-https-manual). Note, this installation is for host machine and not for VMs/Docker Images.
+1. [Install the Littlest JupyterHub (tljh)](http://tljh.jupyter.org/en/latest/install/custom-server.html). Note, this installation is for host machine and not for VMs/Docker Images. You can follow [this (http://tljh.jupyter.org/en/latest/topic/tljh-config.html)](http://tljh.jupyter.org/en/latest/topic/tljh-config.html) link for setting configurations like changing ports etc.
 
 
 #### Pandas
@@ -23,6 +23,7 @@
 
 - [6 Best Django tutorials](https://sunscrapers.com/blog/6-best-django-tutorials-and-books-for-advanced-python-developers/?utm_source=facebook&utm_medium=group&utm_campaign=content&utm_content=django_python_web&fbclid=IwAR2q5q9a3S1Zb9Vxufjkvanup5a_7_iFCyXzQUcweDiWrdtz8XjN8Rr5dfo)
 
+- [Querying One-To-Many Relationships in Django](https://www.youtube.com/watch?v=iwNBwG8RBok)
 - [QuerySet Filters on Many-to-many Relations](https://djangotricks.blogspot.com/2018/05/queryset-filters-on-many-to-many-relations.html)
 
 - [Django admin site and ModelAdmin](https://docs.djangoproject.com/en/3.0/ref/contrib/admin/)
