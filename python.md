@@ -21,7 +21,7 @@
 
 - [How To Create A Local Settings File](https://www.youtube.com/watch?v=QyT7Z5MRhYo)
 
-- [Django Cheat sheet](https://remotedevdaily.com/django-commands-cheat-sheet/) and [this](https://github.com/lucrae/django-cheat-sheet#blue_book-creating-a-project) one is very cool
+- [Django Cheat sheet](https://remotedevdaily.com/django-commands-cheat-sheet/) and [this](https://github.com/lucrae/django-cheat-sheet#blue_book-creating-a-project) one is very cool.
 
 - [Safely Including Data for JavaScript in a Django Templates](https://adamj.eu/tech/2020/02/18/safely-including-data-for-javascript-in-a-django-template/?fbclid=IwAR3VVrPY9x1mAxVr0zt9Xd-NlbfQ61Tv2ian3Vh3RD1C8LgoYzwba6c-61g)
 
@@ -38,23 +38,27 @@ __Interesting Django apps__
 
 __REST API__
 
-1. [Build REST API with Django 3](https://medium.com/analytics-vidhya/build-a-django-restful-api-b7f4633d01bc)
+- [Offical Django REST Frmwork tutorials from django-rest-framework.org/](https://www.django-rest-framework.org/tutorial/1-serialization/#testing-our-first-attempt-at-a-web-api)
 
-2. [Excellent tutorial on how to build Django REST API](https://www.youtube.com/watch?v=TmsD8QExZ84)
+- [Build REST API with Django 3 by Erdi MOLLAHÜSEYİNOĞLU - Medium](https://medium.com/analytics-vidhya/build-a-django-restful-api-b7f4633d01bc)
 
-3. [Build REST API with Django 2](my code of repo)
+- [Build REST API with Django 2](my repo)
 
-4. [Building a Simple API Using Django REST Framework in Python | Tutorial for Beginners](https://morioh.com/p/0e19c954ac19?f=5c21fb01c16e2556b555ab32&fbclid=IwAR0IhBUPboy4m0haMFGLTkiMPkb738nVwp0jQj3KM9lokdb5kPiF5-gRc8I)
+- [Excellent tutorial on how to build Django REST API](https://www.youtube.com/watch?v=TmsD8QExZ84)
 
-5. [REST API based authentication](https://simpleisbetterthancomplex.com/tutorial/2018/11/22/how-to-implement-token-authentication-using-django-rest-framework.html)
 
-6. [A Comprehensive Guide to creating an API Endpoint with Django Rest Framework and Advanced Django Filters with PostgreSQL](https://medium.com/@ozguryarikkas/a-guide-to-creating-an-api-endpoint-with-django-rest-framework-and-django-filters-with-postgresql-563a12b3accb)
 
-7. [User authentication](https://www.easywaylearn.com/blog/django-rest-framework-user-authentication-tutorial/?fbclid=IwAR2MNnfVwIer2aEXr1MnMivrZiJHvcBhFK4phyQkbc60zB6pHSa-lqZMM5o)
+- [Building a Simple API Using Django REST Framework in Python | Tutorial for Beginners](https://morioh.com/p/0e19c954ac19?f=5c21fb01c16e2556b555ab32&fbclid=IwAR0IhBUPboy4m0haMFGLTkiMPkb738nVwp0jQj3KM9lokdb5kPiF5-gRc8I)
+
+- [REST API based authentication](https://simpleisbetterthancomplex.com/tutorial/2018/11/22/how-to-implement-token-authentication-using-django-rest-framework.html)
+
+- [A Comprehensive Guide to creating an API Endpoint with Django Rest Framework and Advanced Django Filters with PostgreSQL](https://medium.com/@ozguryarikkas/a-guide-to-creating-an-api-endpoint-with-django-rest-framework-and-django-filters-with-postgresql-563a12b3accb)
+
+- [User authentication](https://www.easywaylearn.com/blog/django-rest-framework-user-authentication-tutorial/?fbclid=IwAR2MNnfVwIer2aEXr1MnMivrZiJHvcBhFK4phyQkbc60zB6pHSa-lqZMM5o)
 
 __ORM__
 
-1. [ORM Cookbook](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/introduction.html?fbclid=IwAR3zMbeUkzv11ldp5CwWuIiGZfz_xvgscLk1Ha4fAXi1xZS1hNfI9XasROA)
+- [ORM Cookbook](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/introduction.html?fbclid=IwAR3zMbeUkzv11ldp5CwWuIiGZfz_xvgscLk1Ha4fAXi1xZS1hNfI9XasROA)
 
 
 
