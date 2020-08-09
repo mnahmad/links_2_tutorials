@@ -44,10 +44,8 @@ Topics
 Topics
 
 - [Python](https://github.com/mnahmad/links_2_tutorials/blob/master/python.md#Python)
-- [Django](https://github.com/mnahmad/links_2_tutorials/blob/master/python.md#Django)  
-  - [REST API](ttps://github.com/mnahmad/links_2_tutorials/blob/master/python.md#Django)
-  - [ORM](ttps://github.com/mnahmad/links_2_tutorials/blob/master/python.md#Django)
-- [GeoNode](ttps://github.com/mnahmad/links_2_tutorials/blob/master/python.md#GeoNode)
+- [Django](https://github.com/mnahmad/links_2_tutorials/blob/master/all_contents/django/django.md), topics include Core Django, REST API, Django Admin and GeoNode
+
 - [Interesting apps](ttps://github.com/mnahmad/links_2_tutorials/blob/master/python.md#Interesting-apps)
 
 
