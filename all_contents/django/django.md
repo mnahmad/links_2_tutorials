@@ -1,17 +1,19 @@
 ![Platform](https://img.shields.io/badge/Language-Python-yellow.svg?longCache=true)
-![Platform](https://img.shields.io/badge/framework-Django-orange.svg?longCache=true)
+![Platform](https://img.shields.io/badge/framework-Django|1.11.x|3.x-green.svg?longCache=true)
 ![Platform](https://img.shields.io/badge/Product-GeoNode-blue.svg?longCache=true)
 
-# Django
+__Django__
+
 This documents contains some interesting links to Django contents
 
-- [Core](#Core)
-- [Interesting Django apps](#interesting-django-apps)
-- [REST API](#rest-api)
-- [ORM](#orm)
-- [Dashboards](#dashboards)
-- [GeoNode](#geonode)
 
+- [Core](#core)
+		- [Admin](#admin)
+	- [Interesting Django apps](#interesting-django-apps)
+	- [REST API](#rest-api)
+	- [ORM](#orm)
+	- [Dashboards](#dashboards)
+	- [GeoNode](#geonode)
 
 
 

@@ -69,19 +69,14 @@ Topics
 [Pixelwise coorelation of timeseries data](https://www.hakimabdi.com/blog/test-pixelwise-correlation-between-two-time-series-of-gridded-satellite-data-in-r). The data used is (a) rainfall (b) NPP.
 
 
-### HTML and JavaScript
+### HTML, CSS and JavaScript
+- [HTML](https://github.com/mnahmad/links_2_tutorials/blob/master/all_contents/html_css_js/html_css_js.md)
 
 
 
+### Operating System
 
-### [Linux and Shell scripting](https://github.com/mnahmad/links_2_tutorials/blob/master/linux.md)
-
-[link](https://github.com/mnahmad/links_2_tutorials/blob/master/linux.md)
-
-
-
-### Installation
-
+__Installations__  
 ##### Linux
 1. [Install Android Studio](https://developer.android.com/studio/install)
 
@@ -94,6 +89,15 @@ Topics
 
 #####  Widows
 1. [Install Android Studio](https://developer.android.com/studio/install)
+
+
+
+### [Linux and Shell scripting](https://github.com/mnahmad/links_2_tutorials/blob/master/linux.md)
+
+[link](https://github.com/mnahmad/links_2_tutorials/blob/master/linux.md)
+
+
+
 
 
 
