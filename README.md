@@ -12,6 +12,17 @@ __All credit goes to content creators. Please like and share using original link
 
 
 
+### Python
+
+Topics
+
+- [Python](https://github.com/mnahmad/links_2_tutorials/blob/master/all_contents/python/python.md)
+- [Django](https://github.com/mnahmad/links_2_tutorials/blob/master/all_contents/django/django.md), topics include Core Django, REST API, Django Admin and GeoNode
+
+- [Interesting apps](ttps://github.com/mnahmad/links_2_tutorials/blob/master/python.md#Interesting-apps)
+
+
+
 ### Java, Android and Digital Data Collection
 Topics
 - [Geographic coordinate conversion](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#Geographic-coordinate-conversion)
@@ -38,15 +49,6 @@ Topics
 
 - [Global synergy cropland map](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FZWSFAA&fbclid=IwAR3hpGdEFs8-R9GP9i8TJpbx0caySnOz5Ipgvlgkl-yatVRQlk7UIB5qHXs)
 
-
-### Python
-
-Topics
-
-- [Python](https://github.com/mnahmad/links_2_tutorials/blob/master/python.md#Python)
-- [Django](https://github.com/mnahmad/links_2_tutorials/blob/master/all_contents/django/django.md), topics include Core Django, REST API, Django Admin and GeoNode
-
-- [Interesting apps](ttps://github.com/mnahmad/links_2_tutorials/blob/master/python.md#Interesting-apps)
 
 
 ### [GIS and Remote sensing](https://github.com/mnahmad/links_2_tutorials/blob/master/qgis.md)
