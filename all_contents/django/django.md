@@ -34,6 +34,8 @@ This documents contains some interesting links to Django contents
 - [Django admin site and ModelAdmin](https://docs.djangoproject.com/en/3.0/ref/contrib/admin/)
 - [Django jazzmin (Jazzy Admin)](https://github.com/farridav/django-jazzmin) a new template for Django Admin
 
+- [Customize the Django Admin With Python](https://realpython.com/customize-django-admin-python/), this shows how to make modification to the admin section of your application (like instead of one column in admin module of your app, show 2 or 3 column or sort them etc.).
+
 
 
 ## Interesting Django apps
@@ -72,3 +74,7 @@ This documents contains some interesting links to Django contents
 
 
 ## GeoNode
+
+
+## Deployments
+- [Deploying Django applications with docker swarm on DigitalOcean using GitLab CI, Traefik, NGINX and REX-Ray](https://briancaffey.github.io/2020/08/09/digital-ocean-docker-swarm-django-traefik-nginx.html)

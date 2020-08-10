@@ -17,8 +17,7 @@ Python related content links.
 
 
 ## Environments and IDEs
-
-1. [Install the Littlest JupyterHub (tljh)](http://tljh.jupyter.org/en/latest/install/custom-server.html). Note, this installation is for host machine and not for VMs/Docker Images. You can follow [this (http://tljh.jupyter.org/en/latest/topic/tljh-config.html)](http://tljh.jupyter.org/en/latest/topic/tljh-config.html) link for setting configurations like changing ports etc.
+- [Install the Littlest JupyterHub (tljh)](http://tljh.jupyter.org/en/latest/install/custom-server.html). Note, this installation is for host machine and not for VMs/Docker Images. You can follow [this (http://tljh.jupyter.org/en/latest/topic/tljh-config.html)](http://tljh.jupyter.org/en/latest/topic/tljh-config.html) link for setting configurations like changing ports etc.
 
 ## Core
 - [5 Python tricks that will improve your life](https://www.youtube.com/watch?v=5tcs2qXP3Pg)
