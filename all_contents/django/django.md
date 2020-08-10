@@ -48,7 +48,7 @@ This documents contains some interesting links to Django contents
 
 - [Build REST API with Django 3 by Erdi MOLLAHÜSEYİNOĞLU - Medium](https://medium.com/analytics-vidhya/build-a-django-restful-api-b7f4633d01bc)
 
-- [Build REST API with Django 2](my repo), I translated [Erdi MOLLAHÜSEYİNOĞLU]((https://medium.com/analytics-vidhya/build-a-django-restful-api-b7f4633d01bc) Django 3  REST API tutorial to Django 2.  
+- [Build REST API with Django 2](https://mnahmad.github.io/scriptndebug/), I translated [Erdi MOLLAHÜSEYİNOĞLU]((https://medium.com/analytics-vidhya/build-a-django-restful-api-b7f4633d01bc) Django 3  REST API tutorial to Django 2.  
 
 - [Excellent tutorial on how to build Django REST API](https://www.youtube.com/watch?v=TmsD8QExZ84)
 
