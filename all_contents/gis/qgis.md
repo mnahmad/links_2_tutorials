@@ -18,12 +18,13 @@
 ### QGIS
 - [QGIS Tutorials and Tips](https://www.qgistutorials.com/en/), Excellent tutorials
 - [Nice QGIS tutorials videos](https://www.youtube.com/user/soloharthal)
+- [](https://courses.spatialthoughts.com/), advance QGIS topics. Thanks to [Ujaval Gandhi](https://twitter.com/spatialthoughts) for making all 6 courses available for free.
 - [SLYR: the ESRI to QGIS Compatibility Suite](https://north-road.com/slyr/)
 - [Multiple Criteria Decision Making For Selection of Suitable Agricultural Land](https://www.youtube.com/watch?v=TDwg8Wi5rYs)
 - [QGIS-GRASS: Cost Path Analysis](https://www.youtube.com/watch?v=c2DiB-OGAjQ)
 
 
-- [Watershed Analysis]()
+- [GIS OpenCourseWare for Hydrological Applications](https://ocw.un-ihe.org/course/view.php?id=11)
 
 - [Flood Analysis](https://www.youtube.com/watch?v=qZBi3vGBzI8&feature=youtu.be&fbclid=IwAR0OYRvQweUwi0mkbbCmDRX9rmdS4LCP45MyLkKXI3oWbW6geony8_rEZ-8)
 
