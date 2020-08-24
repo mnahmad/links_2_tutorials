@@ -51,11 +51,11 @@ Topics
 
 
 
-### [GIS and Remote sensing](https://github.com/mnahmad/links_2_tutorials/blob/master/qgis.md)
+### GIS and Remote sensing
 
 Topics
 - Models
-- [QGIS](https://github.com/mnahmad/links_2_tutorials/blob/master/qgis.md#Scripts)
+- [QGIS](https://github.com/mnahmad/links_2_tutorials/blob/master/all_contents/gis/qgis.md)
 - [Scripts](https://github.com/mnahmad/links_2_tutorials/blob/master/qgis.md#Scripts)
 - [Plugins](https://github.com/mnahmad/links_2_tutorials/blob/master/qgis.md#Plugins)
 
