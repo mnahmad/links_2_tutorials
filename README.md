@@ -1,6 +1,6 @@
 ![Platform](https://img.shields.io/badge/Language-bash-green.svg?longCache=true)
 ![Platform](https://img.shields.io/badge/Language-Python-yellow.svg?longCache=true)
-![Platform](https://img.shields.io/badge/Django-orange.svg?longCache=true)
+![Platform](https://img.shields.io/badge/framework-Django-orange.svg?longCache=true)
 ![Platform](https://img.shields.io/badge/Database-MySQL-orange.svg?longCache=true)
 ![Platform](https://img.shields.io/badge/Database-PostgreSQL-orange.svg?longCache=true)
 ![Platform](https://img.shields.io/badge/Language-R-blue.svg?longCache=true)
@@ -27,7 +27,7 @@ Topics
 - [Geographic coordinate conversion](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#Geographic-coordinate-conversion)
 - [OSMDroid](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#ODMDroid)
 - [Multi Language support](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#Language-support)
-- [Adobe DX](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#Adobe-DX)
+- [Adobe XD](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#Adobe-DX)
 - [OpenDataKit](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#OpenDataKit)
 - [Interesting apps](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#Interesting-apps)
 
