@@ -5,14 +5,13 @@
 ![Platform](https://img.shields.io/badge/Database-PostgreSQL-orange.svg?longCache=true)
 ![Platform](https://img.shields.io/badge/Language-R-blue.svg?longCache=true)
 
-# Links to some Interesting tutorials
-This repo. contains links to some Interesting tutorials and answers to Stack Overflow questions.
+# Links to some Interesting resources
+This repository contains links to some Interesting resources and answers to Stack Overflow questions.
 
 __All credit goes to content creators. Please like and share using original links.__
 
 
-
-### Python
+### Python and framework
 
 Topics
 
