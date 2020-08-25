@@ -35,7 +35,10 @@ Topics
 ### Containers and Virtual machines
 
 - [Docker](https://github.com/mnahmad/links_2_tutorials/blob/master/vms.md#Docker)
+- [Then he asked me “Is Kubernetes right for us?”](https://medium.com/@alexellisuk/then-he-asked-me-is-kubernetes-right-for-us-78695ee35289), very nice to read.
+
 - KVM
+
 
 
 ### Dataset
