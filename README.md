@@ -35,7 +35,7 @@ Topics
 ### Containers and Virtual machines
 
 - [Docker](https://github.com/mnahmad/links_2_tutorials/blob/master/vms.md#Docker)
-- [Then he asked me “Is Kubernetes right for us?”](https://medium.com/@alexellisuk/then-he-asked-me-is-kubernetes-right-for-us-78695ee35289), very nice to read.
+- [Then he asked me “Is Kubernetes right for us?”](https://medium.com/@alexellisuk/then-he-asked-me-is-kubernetes-right-for-us-78695ee35289), by Alex Ellis,  very nice to read.
 
 - KVM
 
@@ -63,6 +63,8 @@ Topics
 
 
 ### R, RStudio and packages
+
+[Learning-R-Resources](https://github.com/Joscelinrocha/Learning-R-resources/wiki), excellent for Data Science students.
 
 [maxlike package](https://cran.r-project.org/web/packages/maxlike/maxlike.pdf)
 
