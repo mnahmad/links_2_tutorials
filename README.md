@@ -51,6 +51,7 @@ Topics
 
 - [Global synergy cropland map](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FZWSFAA&fbclid=IwAR3hpGdEFs8-R9GP9i8TJpbx0caySnOz5Ipgvlgkl-yatVRQlk7UIB5qHXs)
 
+- [Base map from NASA visible earth](https://visibleearth.nasa.gov/images/147190/explorer-base-map?fbclid=IwAR1XqY4slDiO-viSxNWHkCYmAaH4v-w4q3uQHtXkFQ9oZCcpubM3IR-jNQs), good source for own base maps for webGIS. 
 
 
 ### GIS and Remote sensing
