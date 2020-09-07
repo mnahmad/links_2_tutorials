@@ -36,10 +36,16 @@ __Jupyter note/lab/hub__
 
 - [21-pandas-operations-for-absolute-beginners](https://towardsdatascience.com/21-pandas-operations-for-absolute-beginners-5653e54f4cda)
 
+- [Become a Pro at Pandas, Python’s data manipulation Library](https://medium.com/analytics-and-data/become-a-pro-at-pandas-pythons-data-manipulation-library-264351b586b1)
+
+- [Be a more efficient data scientist, master pandas with this guide](https://towardsdatascience.com/be-a-more-efficient-data-scientist-today-master-pandas-with-this-guide-ea362d27386)
+
 ## Graphs
 - [The Python Graph Gallery](https://python-graph-gallery.com/), get coded examples from here.
 
-- [Named colours](https://matplotlib.org/2.0.2/examples/color/named_colors.html)
+- [Named colours](https://matplotlib.org/2.0.2/examples/color/named_colors.html), excellent to have though I wish we have a vector version. 
+
+- [Choosing one of many Python visualization tools](https://blog.magrathealabs.com/choosing-one-of-many-python-visualization-tools-7eb36fa5855f), an excellent read.
 
 -[Almost 10 Pie Charts in 10 Python Libraries](https://blog.algorexhealth.com/2018/03/almost-10-pie-charts-in-10-python-libraries/)
 
