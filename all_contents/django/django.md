@@ -18,6 +18,7 @@ This documents contains some interesting links to Django contents
 
 
 # Core
+- [Design philosophies](https://docs.djangoproject.com/en/3.1/misc/design-philosophies/)
 - [How To Create A Local Settings File](https://www.youtube.com/watch?v=QyT7Z5MRhYo)
 -[Django Static Files and Templates](https://learndjango.com/tutorials/django-static-files) is a nice read to understand STATIC_URL, STATICFILES_DIRS, STATIC_ROOT configurations in setting.py file.
 
