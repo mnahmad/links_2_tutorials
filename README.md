@@ -51,7 +51,9 @@ Topics
 
 - [Global synergy cropland map](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FZWSFAA&fbclid=IwAR3hpGdEFs8-R9GP9i8TJpbx0caySnOz5Ipgvlgkl-yatVRQlk7UIB5qHXs)
 
-- [Base map from NASA visible earth](https://visibleearth.nasa.gov/images/147190/explorer-base-map?fbclid=IwAR1XqY4slDiO-viSxNWHkCYmAaH4v-w4q3uQHtXkFQ9oZCcpubM3IR-jNQs), good source for own base maps for webGIS. 
+- [Base map from NASA visible earth](https://visibleearth.nasa.gov/images/147190/explorer-base-map?fbclid=IwAR1XqY4slDiO-viSxNWHkCYmAaH4v-w4q3uQHtXkFQ9oZCcpubM3IR-jNQs), good source for own base maps for webGIS.
+
+- [Gridded Population of the World (GPW), v4](https://sedac.ciesin.columbia.edu/data/set/gpw-v4-population-density-rev11), goto [this](https://sedac.ciesin.columbia.edu/data/collection/gpw-v4/sets/browse) link and press Download next to the population dataset. 
 
 
 ### GIS and Remote sensing
