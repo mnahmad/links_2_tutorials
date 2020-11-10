@@ -53,8 +53,9 @@ Topics
 
 - [Base map from NASA visible earth](https://visibleearth.nasa.gov/images/147190/explorer-base-map?fbclid=IwAR1XqY4slDiO-viSxNWHkCYmAaH4v-w4q3uQHtXkFQ9oZCcpubM3IR-jNQs), good source for own base maps for webGIS.
 
-- [Gridded Population of the World (GPW), v4](https://sedac.ciesin.columbia.edu/data/set/gpw-v4-population-density-rev11), goto [this](https://sedac.ciesin.columbia.edu/data/collection/gpw-v4/sets/browse) link and press Download next to the population dataset. 
+- [Gridded Population of the World (GPW), v4](https://sedac.ciesin.columbia.edu/data/set/gpw-v4-population-density-rev11), goto [this](https://sedac.ciesin.columbia.edu/data/collection/gpw-v4/sets/browse) link and press Download next to the population dataset.
 
+- [Global Aridity Index and Potential Evapotranspiration Climate Database v2](https://cgiarcsi.community/2019/01/24/global-aridity-index-and-potential-evapotranspiration-climate-database-v2/) the link can be used to read about aridity index. Download the dataset at [this](https://figshare.com/articles/Global_Aridity_Index_and_Potential_Evapotranspiration_ET0_Climate_Database_v2/7504448/3) link. Read more about aridity index at [this](https://en.wikipedia.org/wiki/Aridity_index) link.   
 
 ### GIS and Remote sensing
 
