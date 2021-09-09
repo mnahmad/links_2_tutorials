@@ -25,17 +25,18 @@ Topics
         <td align="center"><a href="https://github.com/mnahmad/links_2_tutorials/blob/master/all_contents/django/django.md"><img src="img/django.png" width="85px;" height="45px;" alt="Jenkins"/><br /><b>Django</b></a></td>
         <td align="center"> Multiple topics like include Core Django, REST API, Django Admin and GeoNode </td>
   </tr>
+  <tr>
+        <td align="center"><a href="https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#Geographic-coordinate-conversion"><img src="img/Java.png" width="85px;" height="45px;" alt="Jenkins"/><br /><b>Django</b></a></td>
+        <td align="center"> Multiple topics like coordinate conversion </td>
+  </tr>
   </table>
   </center>
 
-- [Interesting apps](ttps://github.com/mnahmad/links_2_tutorials/blob/master/python.md#Interesting-apps)
-
-
 
 ### Java, Android and Digital Data Collection
-Topics
-- [Geographic coordinate conversion](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#Geographic-coordinate-conversion)
+
 - [OSMDroid](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#ODMDroid)
+
 - [Multi Language support](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#Language-support)
 - [Adobe XD](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#Adobe-DX)
 - [OpenDataKit](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#OpenDataKit)
