@@ -15,8 +15,18 @@ __All credit goes to content creators. Please like and share using original link
 
 Topics
 
-- [Python](https://github.com/mnahmad/links_2_tutorials/blob/master/all_contents/python/python.md)
-- [Django](https://github.com/mnahmad/links_2_tutorials/blob/master/all_contents/django/django.md), topics include Core Django, REST API, Django Admin and GeoNode
+<center>
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/mnahmad/links_2_tutorials/blob/master/all_contents/python/python.md"><img src="img/python.png" width="70px;" height="75px;" alt="DevOps" /><br /><b>Python</b></a></td>
+    <td align="center"> Multiple topics including <a href="https://github.com/mnahmad/links_2_tutorials/blob/master/python.md#Interesting-apps">Interesting apps</a></td>
+  </tr>
+  <tr>
+        <td align="center"><a href="https://github.com/mnahmad/links_2_tutorials/blob/master/all_contents/django/django.md"><img src="img/django.png" width="85px;" height="45px;" alt="Jenkins"/><br /><b>Django</b></a></td>
+        <td align="center"> Multiple topics like include Core Django, REST API, Django Admin and GeoNode </td>
+  </tr>
+  </table>
+  </center>
 
 - [Interesting apps](ttps://github.com/mnahmad/links_2_tutorials/blob/master/python.md#Interesting-apps)
 

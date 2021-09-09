@@ -20,6 +20,7 @@ __pyCharm__
 
 __Jupyter note/lab/hub__
 - [Google coLab](https://colab.research.google.com/notebooks/intro.ipynb), if you just need jupyter notebooks, start from here.
+
 - [Install the Littlest JupyterHub (tljh)](http://tljh.jupyter.org/en/latest/install/custom-server.html). Note, this installation is for host machine and not for VMs/Docker Images. You can follow [this (http://tljh.jupyter.org/en/latest/topic/tljh-config.html)](http://tljh.jupyter.org/en/latest/topic/tljh-config.html) link for setting configurations like changing ports etc.
 
 
@@ -28,7 +29,7 @@ __Jupyter note/lab/hub__
 - [Tutorial point](https://www.tutorialspoint.com/python/index.htm), if new python developer, start from here.
 - [5 Python tricks that will improve your life](https://www.youtube.com/watch?v=5tcs2qXP3Pg)
 - [Buildind a UI with pyQT](https://medium.com/@PanjiBrotoisworo/building-a-python-gui-with-pyqt-designer-987f8a400bdf)
-
+- [8 Data Structures Every Python Programmer Should Know](https://python.plainenglish.io/8-data-structures-every-python-programmer-should-know-acafd46f479b)
 
 
 
@@ -39,15 +40,13 @@ __Jupyter note/lab/hub__
 - [Become a Pro at Pandas, Python’s data manipulation Library](https://medium.com/analytics-and-data/become-a-pro-at-pandas-pythons-data-manipulation-library-264351b586b1)
 
 - [Be a more efficient data scientist, master pandas with this guide](https://towardsdatascience.com/be-a-more-efficient-data-scientist-today-master-pandas-with-this-guide-ea362d27386)
+- [Python Tricks for Data Science](https://medium.com/analytics-vidhya/python-tricks-for-data-science-fd038ab838a)
 
 ## Graphs
 - [The Python Graph Gallery](https://python-graph-gallery.com/), get coded examples from here.
-
-- [Named colours](https://matplotlib.org/2.0.2/examples/color/named_colors.html), excellent to have though I wish we have a vector version. 
-
+- [Named colours](https://matplotlib.org/2.0.2/examples/color/named_colors.html), excellent to have though I wish we have a vector version.
 - [Choosing one of many Python visualization tools](https://blog.magrathealabs.com/choosing-one-of-many-python-visualization-tools-7eb36fa5855f), an excellent read.
-
--[Almost 10 Pie Charts in 10 Python Libraries](https://blog.algorexhealth.com/2018/03/almost-10-pie-charts-in-10-python-libraries/)
+- [Almost 10 Pie Charts in 10 Python Libraries](https://blog.algorexhealth.com/2018/03/almost-10-pie-charts-in-10-python-libraries/)
 
 ### Seabourn
 - [Color Guide to Seaborn Palettes](https://medium.com/@morganjonesartist/color-guide-to-seaborn-palettes-da849406d44f)

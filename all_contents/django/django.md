@@ -8,29 +8,30 @@ This documents contains some interesting links to Django contents
 
 
 - [Core](#core)
-		- [Admin](#admin)
-	- [Interesting Django apps](#interesting-django-apps)
-	- [REST API](#rest-api)
-	- [ORM](#orm)
-	- [Dashboards](#dashboards)
-	- [GeoNode](#geonode)
+- [Login & Registration](#Login-&-Registration)
+- [Admin](#admin)
+- [Interesting Django apps](#interesting-django-apps)
+- [REST API](#rest-api)
+- [ORM](#orm)
+- [Dashboards](#dashboards)
+- [GeoNode](#geonode)
 
 
 
-# Core
+### Core
 - [Design philosophies](https://docs.djangoproject.com/en/3.1/misc/design-philosophies/)
-
 - [How To Create A Local Settings File](https://www.youtube.com/watch?v=QyT7Z5MRhYo)
--[Django Static Files and Templates](https://learndjango.com/tutorials/django-static-files) is a nice read to understand STATIC_URL, STATICFILES_DIRS, STATIC_ROOT configurations in setting.py file.
-
+- [Django Static Files and Templates](https://learndjango.com/tutorials/django-static-files) is a nice read to understand STATIC_URL, STATICFILES_DIRS, STATIC_ROOT configurations in setting.py file.
 - [Django Cheat sheet](https://remotedevdaily.com/django-commands-cheat-sheet/) and [this GitHub repo is ](https://github.com/lucrae/django-cheat-sheet#blue_book-creating-a-project) very cool.
-
 - [Safely Including Data for JavaScript in a Django Templates](https://adamj.eu/tech/2020/02/18/safely-including-data-for-javascript-in-a-django-template/?fbclid=IwAR3VVrPY9x1mAxVr0zt9Xd-NlbfQ61Tv2ian3Vh3RD1C8LgoYzwba6c-61g)
-
 - [6 Best Django tutorials](https://sunscrapers.com/blog/6-best-django-tutorials-and-books-for-advanced-python-developers/?utm_source=facebook&utm_medium=group&utm_campaign=content&utm_content=django_python_web&fbclid=IwAR2q5q9a3S1Zb9Vxufjkvanup5a_7_iFCyXzQUcweDiWrdtz8XjN8Rr5dfo)
-
 - [Querying One-To-Many Relationships in Django](https://www.youtube.com/watch?v=iwNBwG8RBok)
 - [QuerySet Filters on Many-to-many Relations](https://djangotricks.blogspot.com/2018/05/queryset-filters-on-many-to-many-relations.html)
+
+### Login & Registration
+- [Login + Registration Page in Django using HTML, CSS, JavaScript (Part I)](https://baltlogs.com/login-registration-page-in-django-using-html-css-javascript-part-i/#more-1178), this part series.
+
+
 
 ### Admin
 - [Django admin site and ModelAdmin](https://docs.djangoproject.com/en/3.0/ref/contrib/admin/)
@@ -38,6 +39,7 @@ This documents contains some interesting links to Django contents
 
 - [Customize the Django Admin With Python](https://realpython.com/customize-django-admin-python/), this shows how to make modification to the admin section of your application (like instead of one column in admin module of your app, show 2 or 3 column or sort them etc.).
 
+- [Admin model and __ str__ function](https://baltlogs.com/method-str-django/?fbclid=IwAR0_CbbqIG1Wm0hxa4ixc2IH2tCGb9rJbPd8_0nxvQG0nLpo4JJ4oLp1rwg), if you did not know this, now you know. :thumbsup: 
 
 
 ## Interesting Django apps
