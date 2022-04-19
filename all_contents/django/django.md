@@ -29,7 +29,7 @@ This documents contains some interesting links to Django contents
 - [QuerySet Filters on Many-to-many Relations](https://djangotricks.blogspot.com/2018/05/queryset-filters-on-many-to-many-relations.html)
 
 ### Login & Registration
-- [Login + Registration Page in Django using HTML, CSS, JavaScript (Part I)](https://baltlogs.com/login-registration-page-in-django-using-html-css-javascript-part-i/#more-1178), this part series.
+- [Login + Registration Page in Django using HTML, CSS, JavaScript (Part I)](https://baltlogs.com/login-registration-page-in-django-using-html-css-javascript-part-i/#more-1178), three part series but link is not working :angry:
 
 
 
@@ -39,7 +39,7 @@ This documents contains some interesting links to Django contents
 
 - [Customize the Django Admin With Python](https://realpython.com/customize-django-admin-python/), this shows how to make modification to the admin section of your application (like instead of one column in admin module of your app, show 2 or 3 column or sort them etc.).
 
-- [Admin model and __ str__ function](https://baltlogs.com/method-str-django/?fbclid=IwAR0_CbbqIG1Wm0hxa4ixc2IH2tCGb9rJbPd8_0nxvQG0nLpo4JJ4oLp1rwg), if you did not know this, now you know. :thumbsup: 
+- [Admin model and __ str__ function](https://baltlogs.com/method-str-django/?fbclid=IwAR0_CbbqIG1Wm0hxa4ixc2IH2tCGb9rJbPd8_0nxvQG0nLpo4JJ4oLp1rwg), if you did not know this, now you know. :thumbsup:
 
 
 ## Interesting Django apps

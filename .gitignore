@@ -1,0 +1,22 @@
+### macOS ###
+*.DS_Store
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code
+.vscode/
+
+# Icon must end with two \r
+#Icon
+
+# Thumbnails
+._*
+
+
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
+
+
+# git rm --cached file-name
+# git rm -r --cahced folder-name
