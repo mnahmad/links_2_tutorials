@@ -13,6 +13,7 @@ This documents contains some interesting links to Django contents
 - [Interesting Django apps](#interesting-django-apps)
 - [REST API](#rest-api)
 - [ORM](#orm)
+- [GeoDjango](#GeoDjango)
 - [Dashboards](#dashboards)
 - [GeoNode](#geonode)
 
@@ -68,8 +69,11 @@ This documents contains some interesting links to Django contents
 
 - [ORM Cookbook](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/introduction.html?fbclid=IwAR3zMbeUkzv11ldp5CwWuIiGZfz_xvgscLk1Ha4fAXi1xZS1hNfI9XasROA)
 
+## GeoDjango
 
-
+- [GeoDjango Tutorial](https://docs.djangoproject.com/en/3.2/ref/contrib/gis/tutorial/), always start from the official documentation.
+- [Maps with Django (2): GeoDjango, PostGIS, Leaflet](https://www.paulox.net/2021/07/19/maps-with-django-part-2-geodjango-postgis-and-leaflet/#requirements), this is also a nice one.
+- [Adding a polygon directly in Geodjango/PostGIS](https://stackoverflow.com/questions/1504288/adding-a-polygon-directly-in-geodjango-postgis), this stackoverflow answer is also interested and help me create a WKT polygon from points submitted though JSON. 
 
 ## Dashboards
 
