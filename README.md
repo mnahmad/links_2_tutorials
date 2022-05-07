@@ -71,10 +71,13 @@ Topics
 ### GIS and Remote sensing
 
 Topics
-- Models
-- [QGIS](https://github.com/mnahmad/links_2_tutorials/blob/master/all_contents/gis/qgis.md)
-- [Scripts](https://github.com/mnahmad/links_2_tutorials/blob/master/qgis.md#Scripts)
-- [Plugins](https://github.com/mnahmad/links_2_tutorials/blob/master/qgis.md#Plugins)
+- QGIS
+  - [QGIS](https://github.com/mnahmad/links_2_tutorials/blob/master/all_contents/gis/qgis.md)
+  - [Scripts](https://github.com/mnahmad/links_2_tutorials/blob/master/qgis.md#Scripts)
+  - [Plugins](https://github.com/mnahmad/links_2_tutorials/blob/master/qgis.md#Plugins)
+
+- [Cloud Optimized GeoTiff (COG)](https://github.com/mnahmad/links_2_tutorials/blob/master/all_contents/gis/cog.md)
+
 
 
 ### R, RStudio and packages
