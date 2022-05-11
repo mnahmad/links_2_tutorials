@@ -65,3 +65,12 @@ __Jupyter note/lab/hub__
 - [nbdev by fast.ai](http://nbdev.fast.ai/) allows developers to develop libs using jupyter notebooks.
 
 ## Interesting apps
+
+
+## PyScript
+Interesting package to build html app.
+
+- [pyscript website](https://pyscript.net/)
+- [PyScript — unleash the power of Python in your browser](https://towardsdatascience.com/pyscript-unleash-the-power-of-python-in-your-browser-6e0123c6dc3f)
+- [Introducing PyScript — How to Run Python in Your Browser](https://towardsdatascience.com/introducing-pyscript-how-to-run-python-in-your-browser-8d838bb12224)
+- [pyodide](https://pyodide.org/en/stable/usage/quickstart.html)
