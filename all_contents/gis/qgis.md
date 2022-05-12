@@ -16,6 +16,7 @@
 
 
 ### QGIS
+- [GIS4School](https://gis4schools.readthedocs.io/en/latest/index.html), best for beginners.
 - [QGIS Tutorials and Tips](https://www.qgistutorials.com/en/), Excellent tutorials
 - [Nice QGIS tutorials videos](https://www.youtube.com/user/soloharthal)
 - [](https://courses.spatialthoughts.com/), advance QGIS topics. Thanks to [Ujaval Gandhi](https://twitter.com/spatialthoughts) for making all 6 courses available for free.
