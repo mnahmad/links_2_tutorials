@@ -27,20 +27,10 @@ Topics
   </tr>
   <tr>
         <td align="center"><a href="https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#Geographic-coordinate-conversion"><img src="img/Java.png" width="85px;" height="45px;" alt="Jenkins"/><br /><b>Django</b></a></td>
-        <td align="center"> Multiple topics like coordinate conversion </td>
+        <td align="center"> [Multiple topics](https://github.com/mnahmad/links_2_tutorials/blob/master/all_contents/java/android.md) like coordinate conversion, OSM map API, OSM data apps </td>
   </tr>
   </table>
   </center>
-
-
-### Java, Android and Digital Data Collection
-
-- [OSMDroid](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#ODMDroid)
-
-- [Multi Language support](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#Language-support)
-- [Adobe XD](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#Adobe-DX)
-- [OpenDataKit](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#OpenDataKit)
-- [Interesting apps](https://github.com/mnahmad/links_2_tutorials/blob/master/android.md#Interesting-apps)
 
 
 ### Containers and Virtual machines

@@ -20,7 +20,7 @@ Documentation Engines
 mkdocs
 - [squidfunk/mkdocs-material](https://hub.docker.com/r/squidfunk/mkdocs-material),
     - Start dev server `docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material`
-    - Build `docker run --rm -it -v ${PWD}:/docs squidfunk/mkdocs-material build `
+    - Build `docker run --rm -it -v ${PWD}:/docs squidfunk/mkdocs-material build`
 - [minidocks/mkdocs](https://hub.docker.com/r/minidocks/mkdocs)
 
 

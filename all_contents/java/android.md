@@ -16,6 +16,13 @@
 
 4. [How to use Shape file/ geoJson file in Android Studio](https://www.youtube.com/watch?v=NEIxG9frpi0&fbclid=IwAR1Hxorkc7PmqRWhDmAITDu2KPxkNAjV5mAEZ3odWRkTnOV3d7zmE7diiKc)
 
+##### OSM apps
+- [OSM App](https://wiki.openstreetmap.org/wiki/Beginners_Guide_1.3) desktop and mobile
+- [OSM Go](https://wiki.openstreetmap.org/wiki/Osm_Go!) good app to create data but not being updated since the last 2 to 3 years. Last release on [playstore](https://play.google.com/store/apps/details?id=fr.dogeo.osmgo) is on Nov 2020.
+- [Vespucci - an OSM Editor](https://play.google.com/store/apps/details?id=de.blau.android) advance level app to create and edit data for OSM.
+- [OsmAnd](https://play.google.com/store/apps/details?id=net.osmand&hl=en&gl=US) offline data viewer app
+
+
 ##### Language support
 1. [Multi Language support](https://developer.android.com/guide/topics/resources/localization)
 2. [Multiple Language Support in Android - Best Practices](https://androidwave.com/android-multi-language-support-best-practices/)
